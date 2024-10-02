@@ -5,7 +5,7 @@
 Execute o seguinte comando para criar uma pasta do novo desafio
 
 > [!NOTE]
-> Você poderá alterar o 1010 para qualquer um dos desafios da [beecrowd](https://judge.beecrowd.com/pt/search)
+> Você poderá alterar o `1010` para qualquer um dos desafios da [beecrowd](https://judge.beecrowd.com/pt/search)
 
 ```bash
 make go-1010
