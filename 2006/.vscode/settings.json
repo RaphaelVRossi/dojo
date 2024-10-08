@@ -8,9 +8,9 @@
       ]
     },
     "workbench.colorCustomizations": {
-        "statusBar.background": "#029400",
-        "statusBar.noFolderBackground": "#029400",
-        "statusBar.debuggingBackground": "#029400",
-        "activityBar.background": "#014400"
+      "statusBar.background": "#940000",
+      "statusBar.noFolderBackground": "#940000",
+      "statusBar.debuggingBackground": "#940000",
+      "activityBar.background": "#5d0000"
     }
   }
