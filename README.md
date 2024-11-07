@@ -17,6 +17,60 @@ make go-1010
 - Instalar `DojoTools` do `Cristian Dean`
 - Ctrl + p (windows / linux) ou cmd + p (mac) para executar o `Dojo Tools: Enable All`
 
+## Começando o desafio
+
+No Beecrowd as entradas do desafio acabam vindo como stdin e o output esperado
+é no stout. Abaixo alguns exemplos de como pode começar o código
+
+Utilizando fmt
+```go
+package main
+
+import (
+    "fmt"
+)
+
+func main() {
+    var a,b int
+    var x int
+
+    fmt.Scanf("%d", &a)
+    fmt.Scanf("%d", &b)
+    x = a + b
+
+    fmt.Printf("X = %d\n", x)
+}
+```
+
+Utilizando bufio
+```go
+package main
+
+import (
+        "bufio"
+        "fmt"
+        "os"
+        "strconv"
+)
+
+func main() {
+    var a,b int
+    var x int
+
+    scanner := bufio.NewScanner(os.Stdin)
+
+    scanner.Scan()
+    a, _ = strconv.Atoi(scanner.Text())
+
+    scanner.Scan()
+    b, _ = strconv.Atoi(scanner.Text())
+
+    x = a + b
+
+    fmt.Printf("X = %d\n", x)
+}
+```
+
 ## Problemas
 
 | Status | Problema | Quando | Aonde |
