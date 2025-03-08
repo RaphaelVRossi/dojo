@@ -77,6 +77,6 @@ func main() {
 | ------ | -------- | ------ | ----- |
 | ☑️      | [2006](https://judge.beecrowd.com/pt/problems/view/2006) | 25/09/24 | [Golang SP & Temporal.io na SumUp](https://www.meetup.com/golangbr/events/303044658)
 | ☑️      | [1168](https://judge.beecrowd.com/pt/problems/view/1168) | 08/10/24 | [Dojo com Go na Microsoft Reactor](https://www.meetup.com/golangbr/events/303659869)
-| 🕐     | [1871](https://judge.beecrowd.com/pt/problems/view/1871) | ???      | ???
+| ☑️      | [1871](https://judge.beecrowd.com/pt/problems/view/1871) | 07/11/24 | [Dojo com Go na Microsoft Reactor](https://www.meetup.com/golangbr/events/304179079)
 | 🕐     | [2164](https://judge.beecrowd.com/pt/problems/view/2164) | ???      | ???
 | 🕐     | [1018](https://judge.beecrowd.com/pt/problems/view/1018) | ???      | ???
